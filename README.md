@@ -1,4 +1,4 @@
-# 🚀 Hello, world!
+[![Jacob Herper - Software Engineer in London](./github_banner.png)](https://herper.io/)
 
 I'm Jacob, a Senior Software Engineer with a focus on front-end JavaScript, React and the Jamstack. I create amazing websites and web apps to make the internet a better place.
 
@@ -14,3 +14,6 @@ The technologies I work with are JavaScript, HTML and CSS with a focus on the fr
 </p>
 
 -----
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
