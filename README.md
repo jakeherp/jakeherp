@@ -1,4 +1,4 @@
-[![Jacob Herper - Software Engineer in London](./github_banner.png)](https://herper.io/)
+[![Jacob Herper - Software Engineer in London](https://res.cloudinary.com/jacobherper/image/upload/v1595605963/github_banner.png)](https://herper.io/)
 
 I'm Jacob, a Senior Software Engineer with a focus on front-end JavaScript, React and the Jamstack. I create amazing websites and web apps to make the internet a better place.
 
