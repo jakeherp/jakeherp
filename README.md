@@ -17,10 +17,10 @@ The technologies I work with are JavaScript, HTML and CSS with a focus on the fr
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   6 hrs 14 mins   ███████████████████████░░   91.46 % 
-YAML         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
-Other        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-Python       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
-Bash         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+TypeScript   5 hrs 17 mins   █████████████████████▓░░░   86.24 % 
+JSON         20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+YAML         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+Bash         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+Python       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 ```
 <!--END_SECTION:waka-->
