@@ -1,26 +1,30 @@
-[![Jacob Herper - Software Engineer in London](https://res.cloudinary.com/jacobherper/image/upload/v1595605963/github_banner.png)](https://herper.io/)
+[![Jacob Herper - Software Engineer and Consultant in the UK](https://res.cloudinary.com/jacobherper/image/upload/v1641506277/gh-image.png)](https://jacobherper.com/)
 
-I'm Jacob, a Senior Software Engineer with a focus on front-end JavaScript, React and the Jamstack. I create amazing websites and web apps to make the internet a better place.
+I am a passionate Software Engineer, specialised in front-end development using React and TypeScript. As an advocate for web performance and accessibility and an evangelist for the Jamstack, I create amazing web applications to make the internet a better place. You can talk to me about anything related to JavaScript, the React ecosystem, Jamstack and the open web.
 
-The technologies I work with are JavaScript, HTML and CSS with a focus on the frameworks React.js, Gatsby, Next.js, Node and Express. I use code not only to do my day-to-day job, but also to solve everyday problems I come across.
+Always happy to help you grow your tech career through mentorship. Please feel free to reach out, if you need help!
 
------
+---
 
 <p align="center">
   <strong>More from me:</strong> 
-  <a href="https://herper.io">Website</a> •
+  <a href="https://jacobherper.com/">Website</a> •
   <a href="https://twitter.com/intent/follow?screen_name=jakeherp&tw_p=followbutton">Twitter</a> •
   <a href="https://www.linkedin.com/in/jacobherper/">LinkedIn</a>
 </p>
 
------
+---
+
+## What I've worked on over the last few days:
 
 <!--START_SECTION:waka-->
+
 ```text
-Other        10 mins         █████████░░░░░░░░░░░░░░░░   37.38 % 
-JavaScript   5 mins          █████░░░░░░░░░░░░░░░░░░░░   21.83 % 
-TypeScript   3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-SCSS         3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+TypeScript   10 mins         █████████░░░░░░░░░░░░░░░░   37.38 %
+JavaScript   5 mins          █████░░░░░░░░░░░░░░░░░░░░   21.83 %
+Other        3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   13.98 %
+SCSS         3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   13.61 %
 JSON         3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   13.07 %
 ```
+
 <!--END_SECTION:waka-->
