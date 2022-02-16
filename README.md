@@ -19,6 +19,8 @@ Always happy to help you grow your tech career through mentorship. Please feel f
 
 <!--START_SECTION:waka-->
 ```text
+Total: 16 hrs 21 mins
+
 TypeScript   7 hrs 23 mins   ██████████▒░░░░░░░░░░░░░░   41.78 % 
 JavaScript   2 hrs 50 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
 Python       1 hr 37 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
