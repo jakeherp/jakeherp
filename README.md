@@ -18,11 +18,14 @@ Always happy to help you grow your tech career through mentorship. Please feel f
 ## What I've worked on over the last few days:
 
 <!--START_SECTION:waka-->
+
 ```text
-TypeScript   7 hrs 23 mins   ██████████▒░░░░░░░░░░░░░░   41.78 % 
-JavaScript   2 hrs 50 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
-Python       1 hr 37 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
-JSON         1 hr 37 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
-Other        1 hr 20 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+TypeScript   11 hrs 2 mins   ████████████████▓░░░░░░░░   66.06 %
+JSON         2 hrs 52 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.22 %
+JavaScript   1 hr 34 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.45 %
+Bash         32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
+Gherkin      18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+Other        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
 ```
+
 <!--END_SECTION:waka-->
