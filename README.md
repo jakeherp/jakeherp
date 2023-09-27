@@ -20,11 +20,11 @@ Always happy to help you grow your tech career through mentorship. Please feel f
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript        3 hrs 19 mins   ██████████████░░░░░░░░░░░   56.52 %
-YAML              51 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.64 %
-JSON              35 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.04 %
-JavaScript        19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
-Docker            12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+TypeScript        3 hrs 31 mins   █████████████████░░░░░░░░   67.44 %
+YAML              27 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 %
+JavaScript        23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
+JSON              15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
+Ezhil             9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
 ```
 
 <!--END_SECTION:waka-->
