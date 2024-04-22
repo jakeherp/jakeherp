@@ -20,11 +20,11 @@ Always happy to help you grow your tech career through mentorship. Please feel f
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    1 hr 14 mins    ██████████████████░░░░░░░   71.38 %
-Svelte        13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.81 %
-JavaScript    8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 %
-JSON          5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
-Image (svg)   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
+TypeScript   1 hr 14 mins    ███████████████▒░░░░░░░░░   61.93 %
+Svelte       31 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.41 %
+JavaScript   8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
+JSON         4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
 ```
 
 <!--END_SECTION:waka-->
