@@ -20,10 +20,9 @@ Always happy to help you grow your tech career through mentorship. Please feel f
 <!--START_SECTION:waka-->
 
 ```txt
-Docker       1 hr 18 mins    ███████████████████▒░░░░░   77.40 %
-YAML         22 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.44 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Docker       33 mins         █████████████████████░░░░   83.44 %
+YAML         6 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.35 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
