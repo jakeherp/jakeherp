@@ -20,9 +20,8 @@ Always happy to help you grow your tech career through mentorship. Please feel f
 <!--START_SECTION:waka-->
 
 ```txt
-Svelte   9 mins          ███████████████████░░░░░░   76.11 %
-JSON     2 mins          ██████░░░░░░░░░░░░░░░░░░░   23.80 %
-Python   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Svelte   9 mins          ███████████████████░░░░░░   76.18 %
+JSON     2 mins          ██████░░░░░░░░░░░░░░░░░░░   23.82 %
 ```
 
 <!--END_SECTION:waka-->
