@@ -22,7 +22,7 @@ Always happy to help you grow your tech career through mentorship. Please feel f
 ```txt
 TypeScript   4 hrs 44 mins   ████████████████████▓░░░░   83.28 %
 YAML         16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
-JSON         12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
+JSON         12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
 Python       9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
 Other        7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
 ```
