@@ -20,7 +20,11 @@ Always happy to help you grow your tech career through mentorship. Please feel f
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python       12 mins         ████████████████▒░░░░░░░░   65.45 %
+Bash         5 mins          ███████░░░░░░░░░░░░░░░░░░   27.37 %
+JavaScript   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+MDX          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 ```
 
 <!--END_SECTION:waka-->
