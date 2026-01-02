@@ -20,11 +20,11 @@ Always happy to help you grow your tech career through mentorship. Please feel f
 <!--START_SECTION:waka-->
 
 ```txt
-Python       12 mins         ████████████████▒░░░░░░░░   65.45 %
-Bash         5 mins          ███████░░░░░░░░░░░░░░░░░░   27.37 %
-JavaScript   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
-MDX          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Python       12 mins         ████████████▒░░░░░░░░░░░░   48.69 %
+YAML         6 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.61 %
+Bash         5 mins          █████░░░░░░░░░░░░░░░░░░░░   20.37 %
+JavaScript   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 ```
 
 <!--END_SECTION:waka-->
