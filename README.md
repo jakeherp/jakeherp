@@ -20,9 +20,10 @@ Always happy to help you grow your tech career through mentorship. Please feel f
 <!--START_SECTION:waka-->
 
 ```txt
-CSV        11 mins         ████████████████░░░░░░░░░   64.04 %
-Markdown   6 mins          ████████▒░░░░░░░░░░░░░░░░   33.56 %
-Other      0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+CSV        11 mins         ███████████▓░░░░░░░░░░░░░   46.46 %
+Bash       6 mins          ██████▓░░░░░░░░░░░░░░░░░░   27.01 %
+Markdown   6 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.79 %
+Other      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
 ```
 
 <!--END_SECTION:waka-->
