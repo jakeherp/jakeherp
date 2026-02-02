@@ -20,7 +20,11 @@ Always happy to help you grow your tech career through mentorship. Please feel f
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Other          1 hr 11 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.93 %
+Bash           50 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.14 %
+SSH Config     33 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.66 %
+Svelte         30 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.83 %
+TypeScript     23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
 ```
 
 <!--END_SECTION:waka-->
