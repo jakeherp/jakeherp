@@ -20,11 +20,11 @@ Always happy to help you grow your tech career through mentorship. Please feel f
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript     34 mins         █████████▒░░░░░░░░░░░░░░░   37.61 %
-Assembly       17 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.56 %
-Svelte         13 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.81 %
-Bash           7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 %
-git ignore     4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
+Assembly       17 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.27 %
+TypeScript     17 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.08 %
+Svelte         13 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.77 %
+Bash           6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 %
+git ignore     4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
 ```
 
 <!--END_SECTION:waka-->
