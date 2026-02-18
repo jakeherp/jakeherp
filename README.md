@@ -20,11 +20,11 @@ Always happy to help you grow your tech career through mentorship. Please feel f
 <!--START_SECTION:waka-->
 
 ```txt
-Assembly       17 mins         ███████░░░░░░░░░░░░░░░░░░   27.70 %
-Svelte         15 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.59 %
-TypeScript     11 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.89 %
-Bash           6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.30 %
-YAML           4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
+TypeScript      2 hrs 6 mins    ████████████████▒░░░░░░░░   65.44 %
+Assembly        17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.90 %
+Svelte          15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 %
+YAML            14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 %
+Bash            7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
 ```
 
 <!--END_SECTION:waka-->
