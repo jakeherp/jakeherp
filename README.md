@@ -20,11 +20,10 @@ Always happy to help you grow your tech career through mentorship. Please feel f
 <!--START_SECTION:waka-->
 
 ```txt
-Python       33 mins               ██████████████▒░░░░░░░░░░   56.95 %
-TypeScript   10 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.40 %
-Bash         7 mins                ███░░░░░░░░░░░░░░░░░░░░░░   12.44 %
-YAML         7 mins                ███░░░░░░░░░░░░░░░░░░░░░░   12.19 %
-Markdown     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Python       35 mins               ████████████████▓░░░░░░░░   66.02 %
+TypeScript   10 mins               █████░░░░░░░░░░░░░░░░░░░░   19.74 %
+Bash         7 mins                ███▒░░░░░░░░░░░░░░░░░░░░░   13.34 %
+Markdown     0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
 ```
 
 <!--END_SECTION:waka-->
